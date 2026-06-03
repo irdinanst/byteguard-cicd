@@ -28,7 +28,6 @@ ByteGuard Cybersecurity Awareness PLatform - CI/CD Pipeline Project
 ![License](https://img.shields.io/badge/license-MIT-blue)
 
 
-
 ## Live Website
 🌐 https://peppy-kelpie-065e30.netlify.app
 
