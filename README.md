@@ -3,10 +3,26 @@ ByteGuard Cybersecurity Awareness PLatform - CI/CD Pipeline Project
 
 # ByteGuard - Cyber Threat Detection System
 
+![Build](https://github.com/irdinanst/byteguard-cicd/actions/workflows/build.yml/badge.svg)
+
+
+
+
+![Test](https://github.com/irdinanst/byteguard-cicd/actions/workflows/test.yml/badge.svg)
+
+
+
+
+![Deploy](https://github.com/irdinanst/byteguard-cicd/actions/workflows/deploy.yml/badge.svg)
+
+
+
 ![Deployment Status](https://img.shields.io/badge/deployment-live-brightgreen)
 
 
+
 ![Pipeline](https://img.shields.io/badge/pipeline-passing-brightgreen)
+
 
 
 ![License](https://img.shields.io/badge/license-MIT-blue)
